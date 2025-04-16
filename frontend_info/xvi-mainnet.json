@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Xvitesse Chain",
+    "url": "https://xvitesse-chain.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/XAILESFINANCE/assets/master/frontend_info/logo.png"
+  },
+  {
+    "title": "Xvitesse Chain Testnet",
+    "url": "https://testnet.xvitesse-chain.com",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/XAILESFINANCE/assets/master/frontend_info/logo.png"
+  }
+]
