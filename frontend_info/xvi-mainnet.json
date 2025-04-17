@@ -3,7 +3,8 @@
     "title": "Xvitesse Chain",
     "url": "https://xvitesse-chain.com",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/XAILESFINANCE/assets/master/frontend_info/logo.png"
+    "icon": "https://raw.githubusercontent.com/XAILESFINANCE/assets/master/frontend_info/logo.png",
+    "isActive": "true"
   },
   {
     "title": "Xvitesse Chain Testnet",
