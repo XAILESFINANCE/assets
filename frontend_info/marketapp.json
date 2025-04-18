@@ -1,1 +1,14 @@
-[]
+[
+	{
+		"author": "Bridge",
+		"id": "bridge",
+		"title": "Bridge",
+		"logo": "",
+		"categories": ["Bridge"],
+		"shortDescription": "The Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from Chain",
+		"external": true,
+		"site": "https://bridge.com/bridge",
+		"description": "The Bridge multi-token extension is the simplest way to transfer ANY ERC20/ERC677/ERC827 token to and from Chain",
+		"url": "https://bridge.com/bridge"
+	}
+]
